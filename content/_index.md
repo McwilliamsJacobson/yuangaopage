@@ -7,7 +7,7 @@ title = "Yuan Gao"
 William W. Elliott Assistant Research Professor
 
 ## Current Research Interests
-My research interest is (I) PDE analysis and numerical simulations for problems in materials sciences and interface dynamics, and (II) applied stochastic analysis for the Langevin dynamics in data science and surface hopping. 
+My research interest is (I) PDE analysis and numerical simulations for problems in materials sciences and interface dynamics, and (II) applied stochastic analysis for the Langevin dynamics in data science and surface hopping[^1]. 
 
 I mainly work on 4th order degenerated parabolic equations, coupled Ginzburg-Landau systems with dynamic boundary condition and multiscale models including phase transition and defects motion. 
 
@@ -20,3 +20,5 @@ I also work on numerical methods on contact line dynamics, Bayesian inference, m
 
 ## In the News
 - [The Physics of "In-Between" Is Changing Our Understanding of Physical Transitions](https://researchblog.duke.edu/2021/04/14/a-new-algorithm-for-in-betweening-images-applied-to-covid-aging-and-continental-drift/), [Duke Research Blog](https://researchblog.duke.edu/), Apr 19 2021
+
+[^1]: This is the first footnote.
