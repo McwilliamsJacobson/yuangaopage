@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/backups/</loc>
+    <loc>https://McwilliamsJacobson.github.io/backups/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/projects/</loc>
+    <loc>https://McwilliamsJacobson.github.io/projects/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://example.com/activity/</loc>
+    <loc>https://McwilliamsJacobson.github.io/activity/</loc>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://McwilliamsJacobson.github.io/contact/</loc>
   </url><url>
-    <loc>https://example.com/talks/</loc>
+    <loc>https://McwilliamsJacobson.github.io/talks/</loc>
   </url><url>
-    <loc>https://example.com/teach/</loc>
+    <loc>https://McwilliamsJacobson.github.io/teach/</loc>
   </url><url>
-    <loc>https://example.com/pubs/</loc>
+    <loc>https://McwilliamsJacobson.github.io/pubs/</loc>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://McwilliamsJacobson.github.io/</loc>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://McwilliamsJacobson.github.io/about/</loc>
   </url>
 </urlset>
