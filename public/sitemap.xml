@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/posts/my-first-post/</loc>
+    <lastmod>2021-05-20T11:41:11+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/posts/</loc>
+    <lastmod>2021-05-20T11:41:11+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2021-05-20T11:41:11+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/backups/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://example.com/projects/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://example.com/activity/</loc>
+  </url><url>
+    <loc>https://example.com/contact/</loc>
+  </url><url>
+    <loc>https://example.com/talks/</loc>
+  </url><url>
+    <loc>https://example.com/teach/</loc>
+  </url><url>
+    <loc>https://example.com/pubs/</loc>
+  </url><url>
+    <loc>https://example.com/about/</loc>
+  </url>
+</urlset>

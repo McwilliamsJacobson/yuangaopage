@@ -19,7 +19,7 @@ googleAnalytics = ""  # add your tracking id
     pageWidth = "900px"
     avatarSize = "250px"
     colorBlack = "#222222"
-    colorRed = "#dc3545"
+    colorRed = "#4682B4"
   [[params.socialIcons]]
     icon = "fas fa-envelope"
     title = "E-mail"
@@ -38,25 +38,26 @@ googleAnalytics = ""  # add your tracking id
 
 [menu]
   [[menu.main]]
+    name = "Home"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
     name = "Publications"
     url = "/pubs"
     weight = 2
   [[menu.main]]
-    name = "Contact"
-    url = "/contact"
-    weight = 3
-  [[menu.main]]
-    name = "Talks"
-    url = "/talks"
+    name = "Activities"
+    url = "/activity"
     weight = 4
   [[menu.main]]
     name = "Teaching"
     url = "/teach"
     weight = 5
   [[menu.main]]
-    name = "Resume"
+    name = "CV"
     url = "/resume_gy.pdf"
     weight = 8
+
 
 [markup.goldmark.renderer]
   unsafe = true  # allow raw HTML in markdown files
