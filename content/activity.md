@@ -43,7 +43,7 @@ title = "Activities"
 
 **October 2019:** 
 
-- <a href="https://www.mathematics.pitt.edu/content/staticquasi-staticdynamic-models-dislocations-wellposedness-and-exponential-convergence)Pittsburgh" target="_blank">Invited Speaker in PDE and Analysis seminar</a>, University of Pittsburgh, US.
+- <a href="https://www.mathematics.pitt.edu/content/staticquasi-staticdynamic-models-dislocations-wellposedness-and-exponential-convergence" target="_blank">Invited Speaker in PDE and Analysis seminar</a>, University of Pittsburgh, US.
 
 - <a href="https://services.math.duke.edu/~yuangao/" target="_blank">Invited Speaker in Computational and Applied Mathematics seminar</a>, Mississippi State University, US.
 
